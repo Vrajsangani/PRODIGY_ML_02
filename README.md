@@ -62,7 +62,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/mall-customer-segmentation.git
+git clone https://github.com/VrajSangani/mall-customer-segmentation.git
 cd mall-customer-segmentation
 Install required libraries:
 
